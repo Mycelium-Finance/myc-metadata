@@ -1,8 +1,8 @@
 {
   "name": "Mycelium Finance",
   "symbol": "MYC",
-  "description": "Mycelium Finance strategically connects liquidity across selected DeFi, RWA, AI and GameFi projects on Solana.",
+  "description": "Mycelium Finance strategically connects liquidity across selected DeFi, RWA, AI, GameFi and Meme projects on Solana.",
   "image": "https://raw.githubusercontent.com/Mycelium-Finance/myc-metadata/main/myc_logo.png",
-  "tags": ["defi", "liquidity", "finance"],
+  "tags": ["defi", "rwa", "ai", "gamefi", "meme", "liquidity", "finance"],
   "decimals": 9
 }
